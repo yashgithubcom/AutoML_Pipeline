@@ -1,4 +1,4 @@
-# 💣 Streamlit Automated Machine Learning Application
+# Streamlit Automated Machine Learning Application
 
 
 # Automation of Machine Learning Pipelines
